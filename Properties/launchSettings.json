@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Intmed": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55973;http://localhost:55974"
+    }
+  }
+}
